@@ -1,0 +1,6 @@
+.vscode
+.idea
+Debug
+obj
+node_modules
+
